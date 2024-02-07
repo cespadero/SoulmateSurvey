@@ -1,0 +1,22 @@
+body {  
+    color:palevioletred;  
+    font-size:1.2em;
+    font-weight:bolder;
+    font-style:italic;
+    font-family:Cambria,Georgia,"Book Antiqua",serif
+    background-color: rgb(255, 245, 238); 
+}
+h2 {  
+    color:rgb(144, 73, 97);  
+}
+
+    a:link {  
+        color:maroon;  
+        background-color: rgb(255, 245, 238); 
+    }
+
+    a:hover {  
+        color:darkgreen;  
+        background-color: lightgreen; 
+    }
+
